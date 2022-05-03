@@ -9,7 +9,7 @@ const signin = ({providers}) => {
     <>
       <Header/>
 
-     <div className='flex flex-col justify-center text-center  items-center min-h-screen py-2 -mt-55 px-14'>
+     <div className='flex flex-col justify-center text-center  items-center min-h-screen py-2 -mt-50 px-14 '>
       <img src="https://links.papareact.com/ocw" className='w-80' alt="" />
       <p className='font-xs italic'>This is not a Real App, it is build for an educational purpose only</p>
      <div className='mt-40'>
